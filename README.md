@@ -1,3 +1,7 @@
+> [!NOTE]
+> Drivenets fork of the repository; Changelog:
+> - Add tzinfo (SW-157452, SW-169215)
+
 [![PyPI](https://img.shields.io/pypi/v/scyllapy?style=for-the-badge)](https://pypi.org/project/scyllapy/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/scyllapy?style=for-the-badge)](https://pypistats.org/packages/scyllapy)
 
